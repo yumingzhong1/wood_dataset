@@ -15,8 +15,7 @@ and the rubber lumber dataset includes 1362 annotated images with five typical
 defects: DK, SK, ME, TC and CK. Fig.2 shows some defect images for these two datasets
 
 ## Dataset images
-
-<img src = "https://github.com/yumingzhong1/wood_dataset/blob/main/image1.jpg width = "210px"" 
+![iamge](https://github.com/yumingzhong1/wood_dataset/blob/main/image1.jpg)
 
 ![iamge](https://github.com/yumingzhong1/wood_dataset/blob/main/image2.jpg)
 Sound lumber and defect images for pine lumber (the first row) and rubber lumber(the second row),(a) sound lumber, (b) sound knot,(c) dead knot, (d) tree core, (e)missing edge,(f) crack
