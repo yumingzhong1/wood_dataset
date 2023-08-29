@@ -22,4 +22,4 @@ Sound lumber and defect images for pine lumber (the first row) and rubber lumber
 
 ## Download link
 
-https://drive.google.com/drive/folders/17a9FlMx0Djn7FUR2YI8U2qC1PzG6B9xw?usp=drive_link
+[https://drive.google.com/drive/folders/17a9FlMx0Djn7FUR2YI8U2qC1PzG6B9xw?usp=drive_link](https://drive.google.com/file/d/1JJFXNq18LhVd9q5F3j67LzWYuqqypVW7/view?usp=drive_link)https://drive.google.com/file/d/1JJFXNq18LhVd9q5F3j67LzWYuqqypVW7/view?usp=drive_link
